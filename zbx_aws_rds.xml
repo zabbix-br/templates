@@ -630,11 +630,11 @@
             <macros>
                 <macro>
                     <macro>{$AWS_ACCESS_KEY}</macro>
-                    <value>AKIAIWJVLMCK5ODXTH5A</value>
+                    <value></value>
                 </macro>
                 <macro>
                     <macro>{$AWS_SECRET_KEY}</macro>
-                    <value>qo1D3+d9ll1QmCniPABpErx13brRpPBE4k3yNVgL</value>
+                    <value></value>
                 </macro>
             </macros>
             <templates/>
